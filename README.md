@@ -1,2 +1,3 @@
 # SalesforceDeveloper
-This is used to Salesforce Development
+This is used for Salesforce Development
+Author - Shivani Nagarkar
